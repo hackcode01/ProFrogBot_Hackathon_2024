@@ -1,0 +1,15 @@
+Необходимо установить Python, версия указана ниже,
+запустить файлы main.py и technical_bot.py, в этих файлах перед этим заменить id админа на ваш id,
+затем найти @ProFrogSupportBot и @sticker_pro_frog_bot ботов, запустить и они будут работать
+Инструкция по разворачиванию бота:
+OS - кроссплатформенная система
+Версия Python - 3.12.0
+Модули и зависимости для Python:
+aiogram - 2.9.2
+aiofiles - 23.2.1
+kagglehub - 0.2.3
+keras - 3.2.1
+numpy - 1.26.2
+opencv-python - 4.9.0.80
+python-telegram-bot 21.1.1
+tensorflow - 2.16.1
