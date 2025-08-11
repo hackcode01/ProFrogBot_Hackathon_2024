@@ -1,2 +1,2 @@
 # ProFrog_Hackathon_2024
-A software product made at the 2024 Sports Programming Hackathon.
+Телеграмм бот, созданный во время участия в хакатоне в 2024 году.
